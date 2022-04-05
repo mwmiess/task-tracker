@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+h4 {
+    font-size: medium;
+    margin-bottom: 100px;
+}
